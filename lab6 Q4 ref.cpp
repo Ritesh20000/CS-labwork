@@ -12,7 +12,7 @@ void SUMandMin (int& a, int& b)
 	cin >> b;
 	int sum;
 	sum = a + b;
-	//find maximum
+	//find minimum
 	if (a<b)
 		cout << "the minimum is" <<a<<endl;
 	else
